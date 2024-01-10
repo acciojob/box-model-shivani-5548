@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.box {
+      width: 300px;
+      background-color: lightblue;
+      border: 15px solid blue;
+      padding: 50px;
+      margin: 20px;
